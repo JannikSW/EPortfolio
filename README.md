@@ -1,4 +1,4 @@
 # EPortfolio
-EPortfolio for SoftwareEngineering with the Topic postgresSQL with pgAdmin
+EPortfolio for SoftwareEngineering with the Topic postgresSQL and pgAdmin
 
 UNDER CONSTRUCTION!!!
